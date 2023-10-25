@@ -1,4 +1,4 @@
 <?php 
-    //PHP SERVER INFORMATION
+    //PHP SERVER INFORMATION TABLE
     phpinfo();
 ?>
