@@ -1,1 +1,5 @@
-<?php phpinfo(); ?>
+<?php 
+    //PHP SERVER INFORMATION
+    phpinfo(); 
+
+?>
